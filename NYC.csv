@@ -1,0 +1,778 @@
+,Borough,SchoolNumber,School Name,Neighborhood
+0,Manhattan,PS 1,Alfred F. Smith,Two Bridges
+1,Manhattan,PS 11,William T. Harris,Chelsea
+2,Manhattan,PS 15,Roberto Clemente,East Village
+3,Manhattan,PS 18,Park Terrace,Inwood
+4,Manhattan,PS 19,Asher Levy,East Village
+5,Manhattan,PS 20,Anna Silver,Lower East Side
+6,Manhattan,PS MS 34,Franklin D. Roosevelt,Lower East Side
+7,Manhattan,PS 41,Greenwich Village School,Greenwich Village
+8,Manhattan,PS 63,S.T.A.R. Academy (Formerly William McKinley),Lower East Side
+9,Manhattan,PS 64,Robert Simon,East Village
+10,Manhattan,PS 84,Lillian Weber,Upper West Side
+11,Manhattan,PS 102,Jaquees Charter School,East Harlem
+12,Manhattan,PS 108,School of Authors,East Harlem
+13,Manhattan,PS 110,Florence Nightingale,Lower East Side
+14,Manhattan,PS 111,Adolph S. Ochs,Hell's Kitchen
+15,Manhattan,PS 112,Jose Celso Barbosa,East Harlem
+16,Manhattan,PS 115,Alexander Humboldt,Washington Heights
+17,Manhattan,PS 116,Mary Lindley Murray,Kips Bay
+18,Manhattan,PS 125,Ralph Bunche,Harlem
+19,Manhattan,PS 126,Jacob August Riis,Two Bridges
+20,Manhattan,PS 128,Audubon,Washington Heights
+21,Manhattan,PS 129,John H. Finley,Harlem
+22,Manhattan,PS 130,Hernando De Soto,Little Italy
+23,Manhattan,PS 132,Juan Pablo Duarte,Fort George
+24,Manhattan,PS 134,Henrietta Szold,Lower East Side
+25,Manhattan,PS 140,Nathan Straus,Lower East Side
+26,Manhattan,PS 142,Amalia Castro,Lower East Side
+27,Manhattan,PS 145,The Bloomingdale School,Manhattan Valley
+28,Manhattan,PS 146,Anna M. Short,East Harlem
+29,Manhattan,PS 150,Tribeca Learning Center,Tribeca
+30,Manhattan,PS 152,Dyckman Valley School,Fort George
+31,Manhattan,PS 153,Adam Clayton Powell,Hamilton Heights
+32,Manhattan,PS 154,The Harriet Tubman Learning Center,Harlem
+33,Manhattan,PS 155,William Paca,East Harlem
+34,Manhattan,PS 158,Bayard Taylor,Upper East Side
+35,Manhattan,PS 161,Pedro Albizu Campos,West Harlem
+36,Manhattan,PS 163,Alfred B. Smith,Manhattan Valley
+37,Manhattan,PS 165,Robert E. Simon,Manhattan Valley
+38,Manhattan,PS 166,The Richard Rogers School of the Arts and Technology,Upper West Side
+39,Manhattan,PS 171,Patrick Henry Preparatory School,East Harlem
+40,Manhattan,PS 173,,Washington Heights
+41,Manhattan,PS 175,Henry H. Garnet,Harlem
+42,Manhattan,PS 178,Juan Bosch,Inwood
+43,Manhattan,PS 180,Hugo Newman,Harlem
+44,Manhattan,PS 182,The Bilingual Bicultural School,East Harlem
+45,Manhattan,PS 183,Robert Louis Stevenson,Upper East Side
+46,Manhattan,PS MS 184,Shuang Wen School,Lower East Side
+47,Manhattan,PS 185,The Locke School of Arts and Engineering,Harlem
+48,Manhattan,PS 188,Island School,Lower East Side
+49,Manhattan,PS 189,,Washington Heights
+50,Manhattan,PS 315,East Village Community,Lower East Side
+51,Manhattan,PS 361,Children’s Workshop School,Lower East Side
+52,Manhattan,PS 363,Neighborhood School,East Village
+53,Manhattan,PS 364,Earth School,Lower East Side
+54,Manhattan,PS 452,,Upper West Side
+55,Manhattan,PS 527,East Side School for Social Action,"Yorkville, Manhattan"
+56,Region 1: The Bronx[edit],PS 2,Morrisania,Morrisania
+57,Region 1: The Bronx[edit],PS 7,Kingsbridge,Kingsbridge
+58,Region 1: The Bronx[edit],PS 8,Isaac Varian,Norwood
+59,Region 1: The Bronx[edit],PS 9,Ryer Avenue Elementary School,Fordham
+60,Region 1: The Bronx[edit],PS 11,Highbridge School,Highbridge
+61,Region 1: The Bronx[edit],PS 15,Institute for Environmental Learning,University Heights
+62,Region 1: The Bronx[edit],PS 21,Philip Sheridan,Wakefield
+63,Region 1: The Bronx[edit],PS 24,Spuyten Duyvil,Spuyten Duyvil
+64,Region 1: The Bronx[edit],PS 28,Mount Hope,Mount Hope
+65,Region 1: The Bronx[edit],PS 32,Belmont,Belmont
+66,Region 1: The Bronx[edit],PS 33,Timothy Dwight,University Heights
+67,Region 1: The Bronx[edit],PS 37,Multiple Intelligence School,Kingsbridge
+68,Region 1: The Bronx[edit],PS 46,Edgar Allan Poe,Fordham
+69,Region 1: The Bronx[edit],PS 51,Bronx New School,Belmont
+70,Region 1: The Bronx[edit],PS 53,Basheer Quisim,Morrisania
+71,Region 1: The Bronx[edit],PS/IS 54,,Fordham
+72,Region 1: The Bronx[edit],PS 55,Benjamin Franklin,Morrisania
+73,Region 1: The Bronx[edit],PS 56,Norwood Heights,Norwood
+74,Region 1: The Bronx[edit],PS 58,,Morrisania
+75,Region 1: The Bronx[edit],PS 59,,Fordham
+76,Region 1: The Bronx[edit],PS 63,Author’s Academy,Morrisania
+77,Region 1: The Bronx[edit],PS 64,Pura Belpre,Mount Eden
+78,Region 1: The Bronx[edit],PS 70,Max Schoenfeld,Border of Mount Eden & Mount Hope
+79,Region 1: The Bronx[edit],PS 73,Bronx,Highbridge
+80,Region 1: The Bronx[edit],PS 79 (closed in 2007),Creston,Fordham
+81,Region 1: The Bronx[edit],PS 81,Robert J. Christen,North Riverdale
+82,Region 1: The Bronx[edit],PS 85,Great Expectations,Fordham
+83,Region 1: The Bronx[edit],PS 90,George Meany,Concourse
+84,Region 1: The Bronx[edit],PS 91,Bronx,University Heights
+85,Region 1: The Bronx[edit],PS 94,Kings College School,Norwood
+86,Region 1: The Bronx[edit],PS 109,Sedgwick,Morris Heights
+87,Region 1: The Bronx[edit],PS 110,Theodore Schoenfeld,Morrisania
+88,Region 1: The Bronx[edit],PS 126,Dr Marjorie H Dunbar,Highbridge
+89,Region 1: The Bronx[edit],PS 128,Mott Hall III,Morrisania
+90,Region 1: The Bronx[edit],PS 132,Garrett A Morgan,Morrisania
+91,Region 1: The Bronx[edit],PS 159,Luis Munoz Marin,Fordham
+92,Region 1: The Bronx[edit],PS 163,Arthur A Schomburg,Fordham
+93,Region 1: The Bronx[edit],PS 170,Esteban Vicente,Mount Eden
+94,Region 1: The Bronx[edit],PS 199X,The Shakespeare School,Mount Eden
+95,Region 1: The Bronx[edit],PS 204,Morris Heights,Morris Heights
+96,Region 1: The Bronx[edit],PS 205,Fiorello LaGuardia,Belmont
+97,Region 1: The Bronx[edit],P/IS 218,Rafael Hernandez Dual Language,Concourse
+98,Region 1: The Bronx[edit],PS 236,Langston Hughes,Mount Hope
+99,Region 1: The Bronx[edit],PS 246,Poe Center,Fordham
+100,Region 1: The Bronx[edit],PS 306,,Morris Heights
+101,Region 1: The Bronx[edit],PS 307,Luisa Pineiro Fuentes School of Science and Discovery,Kingsbridge
+102,Region 1: The Bronx[edit],PS 310,Marble Hill,Marble Hill
+103,Region 1: The Bronx[edit],PS 315,Lab School,Fordham
+104,Region 1: The Bronx[edit],PS 396,,University Heights
+105,Region 2: The Bronx[edit],PS 6,West Farms,West Farms
+106,Region 2: The Bronx[edit],PS 16,,Washingtonville
+107,Region 2: The Bronx[edit],PS 19,Judith K. Weiss,Woodlawn
+108,Region 2: The Bronx[edit],PS 21,Phillip H Sheridan,Wakefield
+109,Region 2: The Bronx[edit],PS 36,Unionport,Unionport
+110,Region 2: The Bronx[edit],PS 41,Gun Hill Road,Olinville
+111,Region 2: The Bronx[edit],PS 44,David C Farragut,Fairmount
+112,Region 2: The Bronx[edit],PS 47,John Randolph,Soundview
+113,Region 2: The Bronx[edit],PS 48,Joseph R Drake,Hunts Point
+114,Region 2: The Bronx[edit],PS 50,Clara Barton,East Morrisania
+115,Region 2: The Bronx[edit],PS 57,Crescent,East Tremont
+116,Region 2: The Bronx[edit],PS 61,Francisco Oller,East Morrisania
+117,Region 2: The Bronx[edit],PS 62,Inocensio Casanova,Longwood
+118,Region 2: The Bronx[edit],PS 67,Mohegan School,East Tremont
+119,Region 2: The Bronx[edit],PS 68,Bronx,Edenwald
+120,Region 2: The Bronx[edit],PS 72,Dr William Dorney,Throgs Neck
+121,Region 2: The Bronx[edit],PS 75,,Longwood
+122,Region 2: The Bronx[edit],PS 76,The Bennington School,Allerton
+123,Region 2: The Bronx[edit],PS 78,Anne Hutchinson,Williamsbridge
+124,Region 2: The Bronx[edit],PS 83,Donald Hertz,Morris Park
+125,Region 2: The Bronx[edit],PS 87,Bronx,Wakefield
+126,Region 2: The Bronx[edit],PS 92,Bronx,Tremont
+127,Region 2: The Bronx[edit],PS 93,Albert G. Oliver,Soundview
+128,Region 2: The Bronx[edit],PS 96,Richard Rodgers,Allerton
+129,Region 2: The Bronx[edit],PS 97,Bronx,Pelham Gardens
+130,Region 2: The Bronx[edit],PS 100,Isaac Clason,Soundview
+131,Region 2: The Bronx[edit],PS 102,Joseph O Loretan,Park Versailles
+132,Region 2: The Bronx[edit],PS 105,Senator Abraham Bernstein,Bronxdale
+133,Region 2: The Bronx[edit],PS 106,Parkchester,Unionport
+134,Region 2: The Bronx[edit],PS 107,,Soundview
+135,Region 2: The Bronx[edit],PS 108,Philip J Abinanti,Morris Park
+136,Region 2: The Bronx[edit],PS 111,Seton Falls,Edenwald
+137,Region 2: The Bronx[edit],PS 112,Bronxwood,Edenwald
+138,Region 2: The Bronx[edit],PS 119,,Unionport
+139,Region 2: The Bronx[edit],PS 130,Abram Stevens Hewitt,Longwood
+140,Region 2: The Bronx[edit],PS 134,George F Bristow,East Morrisania
+141,Region 2: The Bronx[edit],PS 138,Samuel Randall,Castle Hill
+142,Region 2: The Bronx[edit],PS 140,Eagle,Longwood
+143,Region 2: The Bronx[edit],PS 146,Edward Collins,Longwood
+144,Region 2: The Bronx[edit],PS 150,Charles James Fox,Longwood
+145,Region 2: The Bronx[edit],PS 152,Evergreen,Soundview
+146,Region 2: The Bronx[edit],PS 153,Helen Keller,Co-Op City
+147,Region 2: The Bronx[edit],PS 160,Walt Disney,Co-Op City
+148,Region 2: The Bronx[edit],PS 178,Dr Selman Waksman,Co-Op City
+149,Region 2: The Bronx[edit],PS 182,,Clason Point
+150,Region 2: The Bronx[edit],PS 194,Countee Cullen,Westchester/Zerega
+151,Region 2: The Bronx[edit],PS 195,,Parkchester
+152,Region 2: The Bronx[edit],PS 196,,Parkchester
+153,Region 2: The Bronx[edit],PS 197,,Soundview
+154,Region 2: The Bronx[edit],PS 198,,Morrisania
+155,Region 2: The Bronx[edit],PS 211,,Fairmount
+156,Region 2: The Bronx[edit],PS 212,,Soundview
+157,Region 2: The Bronx[edit],PS 214,Lorraine Hansberry,West Farms
+158,Region 2: The Bronx[edit],,The School of Science and Applied Learning,Tremont
+159,Region 2: The Bronx[edit],PS 304,Early Childhood School,Throggs Neck
+160,Region 2: The Bronx[edit],,New School #1 @ PS 60,
+161,Region 2: The Bronx[edit],,New School #2 @ PS 60,
+162,Region 2: The Bronx[edit],,Bronx Little School,Park Versailles
+163,Region 3: Queens[edit],PS 11,Kathryn Phelan,Woodside
+164,Region 3: Queens[edit],PS 12,James B. Colgate,Woodside
+165,Region 3: Queens[edit],PS 13,Clement C. Moore,Elmhurst
+166,Region 3: Queens[edit],PS 15,Jackie Robinson,St. Albans
+167,Region 3: Queens[edit],PS 18,Winchester,Bellerose
+168,Region 3: Queens[edit],PS 20,John Bowne,Flushing
+169,Region 3: Queens[edit],PS 21,Edward Hart,Linden Hill
+170,Region 3: Queens[edit],PS 22,Thomas Jefferson,Flushing
+171,Region 3: Queens[edit],PS 24,Andrew Jackson,Flushing
+172,Region 3: Queens[edit],PS 26,Rufus King,Fresh Meadows
+173,Region 3: Queens[edit],PS 29,,College Point
+174,Region 3: Queens[edit],PS 30,Ruby S. Couche,"Rochdale Village, Jamaica"
+175,Region 3: Queens[edit],PS 31,Bayside,Bayside
+176,Region 3: Queens[edit],PS 32,State Street,Flushing
+177,Region 3: Queens[edit],PS 33,Edward M. Funk,Queens Village
+178,Region 3: Queens[edit],PS 34,John Harvard,Queens Village
+179,Region 3: Queens[edit],PS 35,Nathaniel Woodhull,Hollis
+180,Region 3: Queens[edit],PS 36,St. Albans School,St. Albans
+181,Region 3: Queens[edit],PS 37,Cynthia Jenkins School,Jamaica
+182,Region 3: Queens[edit],PS 38,Rosedale School,Rosedale
+183,Region 3: Queens[edit],PS 40,Samuel Huntington,South Jamaica
+184,Region 3: Queens[edit],PS 41,Crocheron,Bayside
+185,Region 3: Queens[edit],PS 46,Alley Pond,Oakland Gardens
+186,Region 3: Queens[edit],PS 48,William Wordsworth,Jamaica
+187,Region 3: Queens[edit],PS 49,Dorothy Bonawit Kole,Middle Village
+188,Region 3: Queens[edit],PS 50,Talfourd Lawn Elementary School,Briarwood
+189,Region 3: Queens[edit],PS 54,Hillside,Hillside
+190,Region 3: Queens[edit],PS 55,Maure,South Richmond Hill
+191,Region 3: Queens[edit],PS 79,Francis Lewis,Whitestone
+192,Region 3: Queens[edit],PS 80,Thurgood Marshall Magnet,Jamaica
+193,Region 3: Queens[edit],PS 82,Hammond,Briarwood
+194,Region 3: Queens[edit],PS/IS 87,Middle Village,Middle Village
+195,Region 3: Queens[edit],PS 88,Seneca,Ridgewood
+196,Region 3: Queens[edit],PS 91,Richard Arkwright,Glendale
+197,Region 3: Queens[edit],PS 94,David D. Porter,Little Neck
+198,Region 3: Queens[edit],PS 95,Eastwood School,Jamaica
+199,Region 3: Queens[edit],PS 98,The Douglaston School,Douglaston
+200,Region 3: Queens[edit],PS 99,Kew Gardens,Kew Gardens
+201,Region 3: Queens[edit],PS 101,School in the Gardens,Forest Hills
+202,Region 3: Queens[edit],PS 107,Thomas A. Dooley,Flushing
+203,Region 3: Queens[edit],PS/IS 113,Isaac Chauncey,Glendale
+204,Region 3: Queens[edit],PS 115,Glen Oaks,"Floral Park, Queens"
+205,Region 3: Queens[edit],PS 117,J.Keld/Briarwood School,Briarwood
+206,Region 3: Queens[edit],PS 118,Lorraine Hansberry,St. Albans
+207,Region 3: Queens[edit],PS 120,Queens,Flushing
+208,Region 3: Queens[edit],PS 121,,Richmond Hill
+209,Region 3: Queens[edit],PS 122,,Astoria
+210,Region 3: Queens[edit],PS 128,Juniper Valley & Lorraine Tuzzo,Middle Village
+211,Region 3: Queens[edit],PS 129,Patricia Larkin,College Point
+212,Region 3: Queens[edit],PS 130,,Bayside
+213,Region 3: Queens[edit],PS 131,Abigail Adams,Jamaica
+214,Region 3: Queens[edit],PS 132,Ralph Bunche,Springfield Gardens
+215,Region 3: Queens[edit],PS 133,,Bellerose
+216,Region 3: Queens[edit],PS 134,The Langston Hughes School,Hollis
+217,Region 3: Queens[edit],PS 135,The Bellaire School,Queens Village
+218,Region 3: Queens[edit],PS 136,Roy Wilkins,Hollis
+219,Region 3: Queens[edit],PS 138,The Sunrise School,Rosedale
+220,Region 3: Queens[edit],PS 139,Rego Park,Rego Park
+221,Region 3: Queens[edit],PS 140,Edward K. Ellington,Addisleigh Park
+222,Region 3: Queens[edit],PS 144,Col. Jeromus Remsen School,Forest Hills
+223,Region 3: Queens[edit],PS 147,Ronald McNair,Cambria Heights
+224,Region 3: Queens[edit],PS 153,Maspeth Elementary,Maspeth
+225,Region 3: Queens[edit],PS 154,,Fresh Meadows
+226,Region 3: Queens[edit],PS 159,,Bayside
+227,Region 3: Queens[edit],PS 160,Walter Francis Bishop,Briarwood
+228,Region 3: Queens[edit],PS 161,Arthur Ashe School,South Richmond Hill
+229,Region 3: Queens[edit],PS 162,John Golden,Bayside
+230,Region 3: Queens[edit],PS 163,Flushing Heights,Fresh Meadows
+231,Region 3: Queens[edit],PS 165,Edith K. Bergtraum,Kew Gardens Hills
+232,Region 3: Queens[edit],PS 169,Bay Terrace,Bayside
+233,Region 3: Queens[edit],PS 173,The Fresh Meadows School,Fresh Meadows
+234,Region 3: Queens[edit],PS 174,William Sidney Mount,Rego Park
+235,Region 3: Queens[edit],PS 175,The Lynn Gross Discovery School,Forest Hills
+236,Region 3: Queens[edit],PS 176,The Cambria Heights School,Cambria Heights
+237,Region 3: Queens[edit],PS 178,,Holliswood
+238,Region 3: Queens[edit],PS 181,,Brookfield
+239,Region 3: Queens[edit],PS 182,Samantha Smith,Jamaica
+240,Region 3: Queens[edit],PS 184,Flushing Manor,Flushing
+241,Region 3: Queens[edit],PS 186,Castlewood,Glen Oaks
+242,Region 3: Queens[edit],PS 188,Kingsbury,Oakland Gardens
+243,Region 3: Queens[edit],PS 191,Mayflower,Floral Park
+244,Region 3: Queens[edit],PS 193,Alfred J. Kennedy,Whitestone
+245,Region 3: Queens[edit],PS 195,William Haberle School,Rosedale
+246,Region 3: Queens[edit],PS 196,Grand Central Parkway,Forest Hills
+247,Region 3: Queens[edit],PS 200,Pomonok,Flushing
+248,Region 3: Queens[edit],PS 201,Magnet School,Kissena
+249,Region 3: Queens[edit],PS 203,Oakland Gardens,Bayside
+250,Region 3: Queens[edit],PS 205,Alexander Graham Bell,Oakland Gardens
+251,Region 3: Queens[edit],PS 206,Horace Harding,Rego Park
+252,Region 3: Queens[edit],PS/IS 208,,Bellerose
+253,Region 3: Queens[edit],PS 209,Clearview Gardens,Clearview Gardens
+254,Region 3: Queens[edit],PS 213,The Carl Ullman School,Bayside
+255,Region 3: Queens[edit],PS 214,Cadwallader Colden,Flushing
+256,Region 3: Queens[edit],PS 220,Edward Mandel,Forest Hills
+257,Region 3: Queens[edit],PS 221,North Hills,Douglaston
+258,Region 3: Queens[edit],PS 242,Leonard P. Stavisky Early Childhood School,Flushing
+259,Region 3: Queens[edit],PS 244,Active Learning (EEC),Kew Gardens Hills
+260,Region 3: Queens[edit],PS 251,,Queens
+261,Region 3: Queens[edit],PS/IS 266,,Bellerose
+262,Region 3: Queens[edit],PS/IS 270,Gordon Parks,Rosedale
+263,Region 3: Queens[edit],PS 305,Learners & Leaders (EEC),Ridgewood
+264,Region 3: Queens[edit],PS 360,,St. Albans
+265,Region 4: Queens[edit],PS 2,Alfred Zimberg,Astoria
+266,Region 4: Queens[edit],PS 7,Louis F. Simeone,Elmhurst
+267,Region 4: Queens[edit],PS 11,Kathryn Phelan,Woodside
+268,Region 4: Queens[edit],PS 12,James B. Colgate,Woodside
+269,Region 4: Queens[edit],PS 13,Clement C. Moore,Elmhurst
+270,Region 4: Queens[edit],PS 14,Fairview,Corona
+271,Region 4: Queens[edit],PS 16,Nancy DeBenedittis,Corona
+272,Region 4: Queens[edit],PS 17,Henry David Thoreau,Astoria
+273,Region 4: Queens[edit],PS 19,Marino Jeantet,Jackson Heights
+274,Region 4: Queens[edit],PS 28,The Thomas Emanuel Early Childhood Center,Corona
+275,Region 4: Queens[edit],PS 58,School of Heroes,Maspeth
+276,Region 4: Queens[edit],PS 68,Cambridge,Glendale
+277,Region 4: Queens[edit],PS 69,Jackson Heights,Jackson Heights
+278,Region 4: Queens[edit],PS 70,Queens,Astoria
+279,Region 4: Queens[edit],PS 71,Forest,Ridgewood
+280,Region 4: Queens[edit],PS 76,William Hallet,Long Island City
+281,Region 4: Queens[edit],PS/IS 78,Robert F. Wagner Jr.,Long Island City
+282,Region 4: Queens[edit],PS 81,Jean Paul Richter,Ridgewood
+283,Region 4: Queens[edit],PS 84,Steinway,Astoria
+284,Region 4: Queens[edit],PS 85,The Judge Charles J. Vallone School,Astoria
+285,Region 4: Queens[edit],PS 86,The Irvington,Jamaica Hills
+286,Region 4: Queens[edit],PS 88,Seneca,Ridgewood
+287,Region 4: Queens[edit],PS 89,Elmhurst,Elmhurst
+288,Region 4: Queens[edit],PS 91,Richard Arkwright,Glendale
+289,Region 4: Queens[edit],PS 92,Harry T. Stewart Sr.,Jackson Heights
+290,Region 4: Queens[edit],PS 102,Bayview,Elmhurst
+291,Region 4: Queens[edit],PS 106,Edward Everett Hale,Edgemere
+292,Region 4: Queens[edit],PS 111,Jacob Blackwell,Long Island City
+293,Region 4: Queens[edit],PS 112,Dutch Kills,Long Island City
+294,Region 4: Queens[edit],PS 113,Isaac Chauncey,Glendale
+295,Region 4: Queens[edit],PS 116,Elizabeth L. Farrell,Jamaica
+296,Region 4: Queens[edit],PS 123,Suydam,Jamaica
+297,Region 4: Queens[edit],PS 128,Juniper Valley,Middle Village
+298,Region 4: Queens[edit],PS 143,Louis Armstrong,Corona
+299,Region 4: Queens[edit],PS 148,Queens,East Elmhurst
+300,Region 4: Queens[edit],PS 149,Christa McAuliffe,Jackson Heights
+301,Region 4: Queens[edit],PS 150,Queens,Sunnyside
+302,Region 4: Queens[edit],PS 151,Mary D Carter,Astoria
+303,Region 4: Queens[edit],PS 152,Gwendolyn Alleyne,Woodside
+304,Region 4: Queens[edit],PS 153,Maspeth Elem,Maspeth
+305,Region 4: Queens[edit],PS 166,Henry Gradstein,Astoria
+306,Region 4: Queens[edit],PS 171,Peter G. Van Alst,Astoria
+307,Region 4: Queens[edit],PS 199,Maurice A. Fitzgerald,Sunnyside
+308,Region 4: Queens[edit],PS 212,School of Cyberscience and Literacy,Jackson Heights
+309,Region 4: Queens[edit],PS 222,F F Christopher A. Santora School,Jackson Heights
+310,Region 4: Queens[edit],PS 229,Emmanuel Kaplan,Maspeth
+311,Region 4: Queens[edit],PS 234,,Astoria
+312,Region 4: Queens[edit],PS 239,P.O. Ramon Suarez,Ridgewood
+313,"Region 5: Brooklyn, Queens[edit]",PS 7,Abraham Lincoln,"Cypress Hills, Brooklyn"
+314,"Region 5: Brooklyn, Queens[edit]",PS 13,Roberto Clemente,"East New York, Brooklyn"
+315,"Region 5: Brooklyn, Queens[edit]",PS 41,Francis White School,"Brownsville, Brooklyn"
+316,"Region 5: Brooklyn, Queens[edit]",PS 42,Robert Vernam,"Arverne, Queens"
+317,"Region 5: Brooklyn, Queens[edit]",PS 43,,"Far Rockaway, Queens"
+318,"Region 5: Brooklyn, Queens[edit]",PS 45,Clarence Witherspoon,"Jamaica, Queens"
+319,"Region 5: Brooklyn, Queens[edit]",PS 47,Chris Galas School,"Broad Channel, Queens"
+320,"Region 5: Brooklyn, Queens[edit]",PS 51,,"Richmond Hill, Queens"
+321,"Region 5: Brooklyn, Queens[edit]",PS 56,Harry Eichler,"Richmond Hill, Queens"
+322,"Region 5: Brooklyn, Queens[edit]",PS 60,The Woodhaven School,"Woodhaven, Queens"
+323,"Region 5: Brooklyn, Queens[edit]",PS 62,Chester Park School,"Richmond Hill, Queens"
+324,"Region 5: Brooklyn, Queens[edit]",PS 63,Old South School,"Ozone Park, Queens"
+325,"Region 5: Brooklyn, Queens[edit]",PS 64,Joseph P. Addabbo,"Ozone Park, Queens"
+326,"Region 5: Brooklyn, Queens[edit]",PS 65,The Little Red School House,"Cypress Hills, Brooklyn"
+327,"Region 5: Brooklyn, Queens[edit]",PS 65,The Raymond York Elementary School,"Ozone Park, Queens"
+328,"Region 5: Brooklyn, Queens[edit]",PS 66,Jacqueline Kennedy Onassis,"Richmond Hill, Queens"
+329,"Region 5: Brooklyn, Queens[edit]",PS 72,Annette P. Goldman,"East New York, Brooklyn"
+330,"Region 5: Brooklyn, Queens[edit]",PS 89,Cypress Hills,"Cypress Hills, Brooklyn"
+331,"Region 5: Brooklyn, Queens[edit]",PS 90,Edna Cohen School,"Coney Island, Brooklyn"
+332,"Region 5: Brooklyn, Queens[edit]",PS 96,,"South Ozone Park, Queens"
+333,"Region 5: Brooklyn, Queens[edit]",PS 97,Forest Park School,"Woodhaven, Queens"
+334,"Region 5: Brooklyn, Queens[edit]",PS 100,Glen Morris,"South Ozone Park, Queens"
+335,"Region 5: Brooklyn, Queens[edit]",PS 104,The Bays Water,"Far Rockaway, Queens"
+336,"Region 5: Brooklyn, Queens[edit]",PS 105,The Bay School,"Far Rockaway, Queens"
+337,"Region 5: Brooklyn, Queens[edit]",PS 106,,"Far Rockaway, Queens"
+338,"Region 5: Brooklyn, Queens[edit]",PS 108,Captain Vincent G. Fowler,"South Ozone Park, Queens"
+339,"Region 5: Brooklyn, Queens[edit]",PS 108,Sal Abbracciamento,"Cypress Hills, Brooklyn"
+340,"Region 5: Brooklyn, Queens[edit]",PS 114,Belle Harbor School,"Belle Harbor, Queens"
+341,"Region 5: Brooklyn, Queens[edit]",PS 123,,"Jamaica, Queens"
+342,"Region 5: Brooklyn, Queens[edit]",PS 124,Osmond A Church School,"South Ozone Park, Queens"
+343,"Region 5: Brooklyn, Queens[edit]",PS 146,Howard Beach,Howard Beach
+344,"Region 5: Brooklyn, Queens[edit]",PS 149,Danny Kaye School,"East New York, Brooklyn"
+345,"Region 5: Brooklyn, Queens[edit]",PS 150,Christopher School,"Brownsville, Brooklyn"
+346,"Region 5: Brooklyn, Queens[edit]",PS 155,,"South Ozone Park, Queens"
+347,"Region 5: Brooklyn, Queens[edit]",PS 156,Waverly School,"Brownsville, Brooklyn"
+348,"Region 5: Brooklyn, Queens[edit]",PS 158,Warwick School,"East New York, Brooklyn"
+349,"Region 5: Brooklyn, Queens[edit]",PS 159,Isaac Pitkin School,"East New York, Brooklyn"
+350,"Region 5: Brooklyn, Queens[edit]",PS 165,Ida Posner School,"Brownsville, Brooklyn"
+351,"Region 5: Brooklyn, Queens[edit]",PS 174,Dumont School,"East New York, Brooklyn"
+352,"Region 5: Brooklyn, Queens[edit]",PS 183,Dr. Richard Green,"Rockaway Park, Queens"
+353,"Region 5: Brooklyn, Queens[edit]",PS 183,Daniel Chappie James School,"Brownsville, Brooklyn"
+354,"Region 5: Brooklyn, Queens[edit]",PS 184,Newport,"Brownsville, Brooklyn"
+355,"Region 5: Brooklyn, Queens[edit]",PS 188,Michael E. Berdy,"Coney Island, Brooklyn"
+356,"Region 5: Brooklyn, Queens[edit]",PS 190,Sheffield School,"East New York, Brooklyn"
+357,"Region 5: Brooklyn, Queens[edit]",PS 197,The Ocean School,"Far Rockaway, Queens"
+358,"Region 5: Brooklyn, Queens[edit]",PS 202,Ernest S Jenkyns School,"East New York, Brooklyn"
+359,"Region 5: Brooklyn, Queens[edit]",PS 207,Rockaway Park,"Rockwood Park, Queens"
+360,"Region 5: Brooklyn, Queens[edit]",PS 213,New Lots,"East New York, Brooklyn"
+361,"Region 5: Brooklyn, Queens[edit]",PS 214,Michael Friedsam School,"Cypress Hills, Brooklyn"
+362,"Region 5: Brooklyn, Queens[edit]",PS 215,Lucretia Mott,"Far Rockaway, Queens"
+363,"Region 5: Brooklyn, Queens[edit]",PS 223,Lyndon B. Johnson,"Jamaica, Queens"
+364,"Region 5: Brooklyn, Queens[edit]",PS 224,Hale A. Woodruff School,"East New York, Brooklyn"
+365,"Region 5: Brooklyn, Queens[edit]",PS 225,Seaside School,"Rockaway Park, Queens"
+366,"Region 5: Brooklyn, Queens[edit]",PS 232,Lindenwood,"Lindenwood/Howard Beach, Queens"
+367,"Region 5: Brooklyn, Queens[edit]",PS 253,,"Far Rockaway, Queens"
+368,"Region 5: Brooklyn, Queens[edit]",PS 254,The Rosa Parks School,"Richmond Hill, Queens"
+369,"Region 5: Brooklyn, Queens[edit]",PS 260,Breuckelen School,"Spring Creek, Brooklyn"
+370,"Region 5: Brooklyn, Queens[edit]",PS 273,Wortman School,"East New York, Brooklyn"
+371,"Region 5: Brooklyn, Queens[edit]",PS 284,Lew Wallace school,"Brownsville, Brooklyn"
+372,"Region 5: Brooklyn, Queens[edit]",PS 290,Geraldine A. Ferraro Campus,"Cypress Hills, Brooklyn"
+373,"Region 5: Brooklyn, Queens[edit]",PS 298,Dr. Betty Shabazz,"Brownsville, Brooklyn"
+374,"Region 5: Brooklyn, Queens[edit]",PS 306,Ethan Allen,"East New York, Brooklyn"
+375,"Region 5: Brooklyn, Queens[edit]",PS 323,,"Brownsville, Brooklyn"
+376,"Region 5: Brooklyn, Queens[edit]",PS 327,Dr. Rose B. English School,"Brownsville, Brooklyn"
+377,"Region 5: Brooklyn, Queens[edit]",PS 328,Phyllis Wheatley School,"East New York, Brooklyn"
+378,"Region 5: Brooklyn, Queens[edit]",PS 332/PS 401,Charles H. Houston,"Brownsville, Brooklyn"
+379,"Region 5: Brooklyn, Queens[edit]",PS 345,Patrolman Robert Bolden,"East New York, Brooklyn"
+380,"Region 5: Brooklyn, Queens[edit]",PS 346,Abe Stark,"East New York, Brooklyn"
+381,"Region 5: Brooklyn, Queens[edit]",,Achievement First East New York School,"East New York, Brooklyn"
+382,"Region 5: Brooklyn, Queens[edit]",,East New York Preparatory Charter School,"East New York, Brooklyn"
+383,"Region 5: Brooklyn, Queens[edit]",,Peninsula Preparatory Academy Charter School (PPA),"Far Rockaway, Queens"
+384,"Region 5: Brooklyn, Queens[edit]",,Uft Charter School,"East New York, Brooklyn"
+385,Region 6: Brooklyn[edit],PS 6,Norma Adams Clemens Academy,Flatbush
+386,Region 6: Brooklyn[edit],PS 12,Ronald Edmonds Learning Center II,Crown Heights
+387,Region 6: Brooklyn[edit],PS 705,Brooklyn Arts and Science Elementary,Crown Heights
+388,Region 6: Brooklyn[edit],PS 52,Sheepshead Bay,Sheepshead Bay
+389,Region 6: Brooklyn[edit],PS 91,The Albany Avenue School,Crown Heights/East Flatbush
+390,Region 6: Brooklyn[edit],PS 92,Adrian Hegeman,Prospect Lefferts Gardens
+391,Region 6: Brooklyn[edit],PS 114,Ryder Elementary,Canarsie
+392,Region 6: Brooklyn[edit],PS 119,Amersfort,Flatlands
+393,Region 6: Brooklyn[edit],PS 135,Sheldon A. Brookner,East Flatbush
+394,Region 6: Brooklyn[edit],PS 136,School of Science & Technology,
+395,Region 6: Brooklyn[edit],PS 167,The Parkway,Crown Heights
+396,Region 6: Brooklyn[edit],PS 178,St. Clair McKelway School,Crown Heights
+397,Region 6: Brooklyn[edit],PS 191,Paul Robeson,Crown Heights
+398,Region 6: Brooklyn[edit],PS 194,Raoul Wallenberg,Sheepshead Bay
+399,Region 6: Brooklyn[edit],PS 195,Manhattan Beach,Manhattan Beach
+400,Region 6: Brooklyn[edit],PS 197,Brooklyn,Midwood
+401,Region 6: Brooklyn[edit],PS 198,Brooklyn,East Flatbush
+402,Region 6: Brooklyn[edit],PS 203,Floyd Bennett,Flatlands
+403,Region 6: Brooklyn[edit],PS 206,Joseph F. Lamb,Sheepshead Bay
+404,Region 6: Brooklyn[edit],PS 207,Elizabeth G. Leary,Marine Park
+405,Region 6: Brooklyn[edit],PS 208,Elsa Ebeling,East Flatbush
+406,Region 6: Brooklyn[edit],PS 217,Colonel David Marcus School,Ditmas Park
+407,Region 6: Brooklyn[edit],PS 219,Kennedy-King,East Flatbush
+408,Region 6: Brooklyn[edit],PS 221,Tossaint L’Ouverture [sic],Crown Heights
+409,Region 6: Brooklyn[edit],PS 222,Katherine R. Snyder,Marine Park
+410,Region 6: Brooklyn[edit],PS 233,Langston Hughes,East Flatbush
+411,Region 6: Brooklyn[edit],PS 236,Mill Basin,Mill Basin
+412,Region 6: Brooklyn[edit],PS 241,Emma L. Johnston,Crown Heights
+413,Region 6: Brooklyn[edit],PS 244,Richard R Green,East Flatbush
+414,Region 6: Brooklyn[edit],PS 245,,Flatbush
+415,Region 6: Brooklyn[edit],PS 249,The Caton,Flatbush
+416,Region 6: Brooklyn[edit],PS 251,Paedergat,Flatlands
+417,Region 6: Brooklyn[edit],PS 254,Dag Hammarskjöld,Sheepshead Bay
+418,Region 6: Brooklyn[edit],PS 255,Barbara Reing School,Sheepshead Bay
+419,Region 6: Brooklyn[edit],PS 268,Emma Lazarus,East Flatbush
+420,Region 6: Brooklyn[edit],PS 269,Nostrand,Flatbush
+421,Region 6: Brooklyn[edit],PS 272,Curtis Estabrook,East Flatbush
+422,Region 6: Brooklyn[edit],PS 276,Louis Marshall,Canarsie
+423,Region 6: Brooklyn[edit],PS 277,Gerritsen Beach,Gerritsen Beach
+424,Region 6: Brooklyn[edit],PS 289,George V. Brower,Crown Heights
+425,Region 6: Brooklyn[edit],PS 312,Bergen Beach,Bergen Beach
+426,Region 6: Brooklyn[edit],PS 316,Elijah Stroud,Crown Heights
+427,Region 6: Brooklyn[edit],PS 326,,Flatlands
+428,Region 6: Brooklyn[edit],PS 335,Granville T. Woods,Crown Heights
+429,Region 6: Brooklyn[edit],PS 361,,East Flatbush
+430,Region 6: Brooklyn[edit],PS 375,Jackie-Robinson School,Crown Heights
+431,Region 6: Brooklyn[edit],PS 397,Foster-Laurie,Prospect Lefferts Gardens
+432,Region 6: Brooklyn[edit],PS 398,Walter Weaver,East Flatbush
+433,"Region 7: Staten Island, Brooklyn[edit]",PS 1,The Bergen,Sunset Park
+434,"Region 7: Staten Island, Brooklyn[edit]",PS 1,Tottenville School,Tottenville
+435,"Region 7: Staten Island, Brooklyn[edit]",PS 3,Margaret Gioiosa School,Pleasant Plains
+436,"Region 7: Staten Island, Brooklyn[edit]",PS 4,Maurice Wollin School,Arden Heights
+437,"Region 7: Staten Island, Brooklyn[edit]",PS 5,Huguenot School,Huguenot
+438,"Region 7: Staten Island, Brooklyn[edit]",PS 6,Cpl. Allan F. Kivlehan School,Richmond Valley
+439,"Region 7: Staten Island, Brooklyn[edit]",PS 8,Shirlee Solomon School,Great Kills
+440,"Region 7: Staten Island, Brooklyn[edit]",PS 11,Thomas Dongan School,Dongan Hills
+441,"Region 7: Staten Island, Brooklyn[edit]",PS 13,M. L. Lindenmeyer School,Rosebank
+442,"Region 7: Staten Island, Brooklyn[edit]",PS 14,Cornelius Vanderbilt School,Stapleton
+443,"Region 7: Staten Island, Brooklyn[edit]",PS 16,John J. Driscoll School,Tompkinsville
+444,"Region 7: Staten Island, Brooklyn[edit]",PS 18,John G. Whittier School,West Brighton
+445,"Region 7: Staten Island, Brooklyn[edit]",PS 19,Curtis School,West Brighton
+446,"Region 7: Staten Island, Brooklyn[edit]",PS 20,Port Richmond School,Port Richmond
+447,"Region 7: Staten Island, Brooklyn[edit]",PS 21,Margaret Emery-Elm Park,Port Richmond
+448,"Region 7: Staten Island, Brooklyn[edit]",PS 22,Graniteville School,Graniteville
+449,"Region 7: Staten Island, Brooklyn[edit]",PS 23,Richmondtown School,Richmondtown
+450,"Region 7: Staten Island, Brooklyn[edit]",PS 26,Carteret School,Travis
+451,"Region 7: Staten Island, Brooklyn[edit]",PS 29,Bardwell School,Castleton Corners
+452,"Region 7: Staten Island, Brooklyn[edit]",PS 30,Westerleigh School,Westerleigh
+453,"Region 7: Staten Island, Brooklyn[edit]",PS 31,William T. Davis School,New Brighton
+454,"Region 7: Staten Island, Brooklyn[edit]",PS 35,Clove Valley School,Sunnyside
+455,"Region 7: Staten Island, Brooklyn[edit]",PS 36,J. C. Drumgoole School,Annadale
+456,"Region 7: Staten Island, Brooklyn[edit]",PS 38,George Cromwell School,Midland Beach
+457,"Region 7: Staten Island, Brooklyn[edit]",PS 39,"Francis J. Murphy, Jr. School",South Beach
+458,"Region 7: Staten Island, Brooklyn[edit]",PS 41,New Dorp School,New Dorp
+459,"Region 7: Staten Island, Brooklyn[edit]",PS 42,Eltingville School,Eltingville
+460,"Region 7: Staten Island, Brooklyn[edit]",PS 44,Thomas C. Brown School,Mariners Harbor
+461,"Region 7: Staten Island, Brooklyn[edit]",PS 45,John Tyler School,West Brighton
+462,"Region 7: Staten Island, Brooklyn[edit]",PS 46,Albert V. Maniscalco School,South Beach
+463,"Region 7: Staten Island, Brooklyn[edit]",PS 48,Mapleton School,Mapleton
+464,"Region 7: Staten Island, Brooklyn[edit]",PS 48,William G. Wilcox School,Concord
+465,"Region 7: Staten Island, Brooklyn[edit]",PS 50,Frank Hankinson School,Oakwood
+466,"Region 7: Staten Island, Brooklyn[edit]",PS 52,John C. Thompson School,Dongan Hills
+467,"Region 7: Staten Island, Brooklyn[edit]",PS 53,Bay Terrace School,Bay Terrace
+468,"Region 7: Staten Island, Brooklyn[edit]",PS 54,Charles W. Leng School,Willowbrook
+469,"Region 7: Staten Island, Brooklyn[edit]",PS 55,Henry M. Boehm School,Eltingville
+470,"Region 7: Staten Island, Brooklyn[edit]",PS 56,Louis Desario School,Rossville
+471,"Region 7: Staten Island, Brooklyn[edit]",PS 57,Hubert H. Humphrey School,Clifton
+472,"Region 7: Staten Island, Brooklyn[edit]",PS 58,Space Shuttle Columbia School,New Springville
+473,"Region 7: Staten Island, Brooklyn[edit]",PS 60,Alice Austen School,Graniteville
+474,"Region 7: Staten Island, Brooklyn[edit]",PS 69,Daniel D. Tompkins School,Heartland Village
+475,"Region 7: Staten Island, Brooklyn[edit]",PS 69,Vincent D. Grippo School,Borough Park
+476,"Region 7: Staten Island, Brooklyn[edit]",PS 94,The Henry Longfellow,Sunset Park
+477,"Region 7: Staten Island, Brooklyn[edit]",PS 97,The Highlawn,Gravesend
+478,"Region 7: Staten Island, Brooklyn[edit]",PS 99,The Isaac Asimov School for Science and Literature,Midwood
+479,"Region 7: Staten Island, Brooklyn[edit]",PS 100,The Coney Island School,Brighton Beach
+480,"Region 7: Staten Island, Brooklyn[edit]",PS 101,The Verrazano,Gravesend
+481,"Region 7: Staten Island, Brooklyn[edit]",PS 102,The Bayview,Bay Ridge
+482,"Region 7: Staten Island, Brooklyn[edit]",PS 105,The Blythebourne School,Borough Park
+483,"Region 7: Staten Island, Brooklyn[edit]",PS 112,Lefferts Park,Bensonhurst
+484,"Region 7: Staten Island, Brooklyn[edit]",PS 127,McKinley Park,Dyker Heights
+485,"Region 7: Staten Island, Brooklyn[edit]",PS 128,Bensonhurst,Bensonhurst
+486,"Region 7: Staten Island, Brooklyn[edit]",PS 153,Homecrest,Sheepshead Bay
+487,"Region 7: Staten Island, Brooklyn[edit]",PS 160,William T. Sampson School,Borough Park
+488,"Region 7: Staten Island, Brooklyn[edit]",PS 163,Bath Beach School,Bath Beach
+489,"Region 7: Staten Island, Brooklyn[edit]",PS 164,Caesar Rodney School,Borough Park
+490,"Region 7: Staten Island, Brooklyn[edit]",PS 170,Lexington,Bay Ridge
+491,"Region 7: Staten Island, Brooklyn[edit]",PS 176,Ovington,Dyker Heights
+492,"Region 7: Staten Island, Brooklyn[edit]",PS 177,The Marlboro,Gravesend
+493,"Region 7: Staten Island, Brooklyn[edit]",PS 179,Kensington,Kensington
+494,"Region 7: Staten Island, Brooklyn[edit]",PS 180,Homewood,Borough Park
+495,"Region 7: Staten Island, Brooklyn[edit]",PS 185,Walter Kassenbrock,Fort Hamilton
+496,"Region 7: Staten Island, Brooklyn[edit]",PS 186,Dr. Irving A. Gladstone,Bensonhurst
+497,"Region 7: Staten Island, Brooklyn[edit]",PS 192,Brooklyn,Borough Park
+498,"Region 7: Staten Island, Brooklyn[edit]",PS 199,Frederick Wachtel,Midwood
+499,"Region 7: Staten Island, Brooklyn[edit]",PS 200,Benson School,Bath Beach
+500,"Region 7: Staten Island, Brooklyn[edit]",PS 204,Vince Lombardi,Bensonhurst
+501,"Region 7: Staten Island, Brooklyn[edit]",PS 205,Clarion,Bensonhurst
+502,"Region 7: Staten Island, Brooklyn[edit]",PS 212,Lady Deborah Moody,Bath Beach
+503,"Region 7: Staten Island, Brooklyn[edit]",PS 215,Morris H. Weiss,Gravesend
+504,"Region 7: Staten Island, Brooklyn[edit]",PS 216,Arturo Toscanini,Gravesend
+505,"Region 7: Staten Island, Brooklyn[edit]",PS 229,Dyker,Bath Beach
+506,"Region 7: Staten Island, Brooklyn[edit]",PS 247,New York City College Partnership,Bensonhurst
+507,"Region 7: Staten Island, Brooklyn[edit]",PS 253,Ezra Jack Keats International School,Brighton Beach
+508,"Region 7: Staten Island, Brooklyn[edit]",PS 329,Surfside,
+509,"Region 7: Staten Island, Brooklyn[edit]",PS 506,School of Journalism & Technology,Sunset Park
+510,"Region 7: Staten Island, Brooklyn[edit]",PS 861,Staten Island School of Civic Leadership,Graniteville
+511,Region 8: Brooklyn[edit],PS 3,The Bedford Village,Bedford
+512,Region 8: Brooklyn[edit],PS 5,Dr. Ronald McNair,Bedford-Stuyvesant
+513,Region 8: Brooklyn[edit],PS 8,Robert Fulton,Brooklyn Heights
+514,Region 8: Brooklyn[edit],PS 9,Teunis G. Bergen,Prospect Heights
+515,Region 8: Brooklyn[edit],PS 10,Magnet School for Science & Technology,South Slope
+516,Region 8: Brooklyn[edit],PS 11,Purvis J. Behan,Clinton Hill
+517,Region 8: Brooklyn[edit],PS 15,Patrick F. Daly,Red Hook
+518,Region 8: Brooklyn[edit],PS 16,Leonard Dunkly,Williamsburg
+519,Region 8: Brooklyn[edit],PS 17,Henry D. Woodworth,Williamsburg
+520,Region 8: Brooklyn[edit],PS 18,Edward Bush,Williamsburg
+521,Region 8: Brooklyn[edit],PS 19,Roberto Clemente,Williamsburg
+522,Region 8: Brooklyn[edit],PS 20,Clinton Hill,Clinton Hill
+523,Region 8: Brooklyn[edit],PS 23,Carter G. Woodson,Bedford-Stuyvesant
+524,Region 8: Brooklyn[edit],PS 26,Jesse Owens,Bedford-Stuyvesant
+525,Region 8: Brooklyn[edit],PS 28,The Warren,Bedford-Stuyvesant
+526,Region 8: Brooklyn[edit],PS 31,Samuel F. Du Pont,Greenpoint
+527,Region 8: Brooklyn[edit],PS 32,Samuels Mills Sprole,Gowanus
+528,Region 8: Brooklyn[edit],PS 34,Oliver H. Perry,Greenpoint
+529,Region 8: Brooklyn[edit],PS 38,The Pacific,Boerum Hill
+530,Region 8: Brooklyn[edit],PS 39,Henry Bristow,Park Slope
+531,Region 8: Brooklyn[edit],PS 40,George W. Carver,Bedford-Stuyvesant
+532,Region 8: Brooklyn[edit],PS 44,Marcus Garvey,Bedford-Stuyvesant
+533,Region 8: Brooklyn[edit],PS 45,Horace E. Greene,Bushwick
+534,Region 8: Brooklyn[edit],PS 46,Edward C. Blum,Fort Greene
+535,Region 8: Brooklyn[edit],PS 54,Samuel C. Barnes,Bedford-Stuyvesant
+536,Region 8: Brooklyn[edit],PS 56,Lewis H. Latimer,Bedford-Stuyvesant
+537,Region 8: Brooklyn[edit],PS 58,The Carroll School,Carroll Gardens
+538,Region 8: Brooklyn[edit],PS 59,William Floyd,Bedford-Stuyvesant
+539,Region 8: Brooklyn[edit],PS 67,Charles A. Dorsey,Fort Greene
+540,Region 8: Brooklyn[edit],PS 73,Thomas S Boyland School,Bedford-Stuyvesant
+541,Region 8: Brooklyn[edit],PS 75,Mayda Cortiella,Bushwick
+542,Region 8: Brooklyn[edit],PS 81,Thaddeus Stevens,Bedford-Stuyvesant
+543,Region 8: Brooklyn[edit],PS 84,Jose de Diego,Williamsburg
+544,Region 8: Brooklyn[edit],PS 93,William H. Prescott,Bedford-Stuyvesant
+545,Region 8: Brooklyn[edit],PS 107,John W. Kimball,South Slope
+546,Region 8: Brooklyn[edit],PS 110,The Monitor,Greenpoint
+547,Region 8: Brooklyn[edit],PS 120,Carlos Tapia,Bushwick
+548,Region 8: Brooklyn[edit],PS 124,Silas B. Dutcher,South Slope
+549,Region 8: Brooklyn[edit],PS 130,The Parkside,Windsor Terrace
+550,Region 8: Brooklyn[edit],PS 131,Brooklyn,Borough Park
+551,Region 8: Brooklyn[edit],PS 132,Conselyea,Williamsburg
+552,Region 8: Brooklyn[edit],PS 133,William A. Butler,Park Slope
+553,Region 8: Brooklyn[edit],PS 137,Rachel Jean Mitchell School,Bedford-Stuyvesant
+554,Region 8: Brooklyn[edit],PS 145,Andrew Jackson,Bushwick
+555,Region 8: Brooklyn[edit],PS 151,Lyndon B. Johnson,Bushwick
+556,Region 8: Brooklyn[edit],PS 155,Nicholas Herkimer,Bedford-Stuyvesant
+557,Region 8: Brooklyn[edit],PS 157,Benjamin Franklin,Bedford-Stuyvesant
+558,Region 8: Brooklyn[edit],PS 160,William T. Sampson,Sunset Park
+559,Region 8: Brooklyn[edit],PS 169,Sunset Park,Sunset Park
+560,Region 8: Brooklyn[edit],PS 196,Ten Eyck,Bushwick
+561,Region 8: Brooklyn[edit],PS 243,Weeksville,Crown Heights
+562,Region 8: Brooklyn[edit],PS 250,George H. Lindsay,Williamsburg
+563,Region 8: Brooklyn[edit],PS 256,Benjamin Banneker,Bedford-Stuyvesant
+564,Region 8: Brooklyn[edit],PS 257,John F. Hylan,Williamsburg
+565,Region 8: Brooklyn[edit],PS 261,Philip Livingston,Boerum Hill
+566,Region 8: Brooklyn[edit],PS 262,El Hajj Malik Shabazz,Bedford-Stuyvesant
+567,Region 8: Brooklyn[edit],PS 270,Johann Dekalb,Clinton Hill
+568,Region 8: Brooklyn[edit],PS 274,Kosciusko,Bushwick
+569,Region 8: Brooklyn[edit],PS 287,Bailey K. Ashford,Downtown Brooklyn
+570,Region 8: Brooklyn[edit],PS 295,,Sunset Park
+571,Region 8: Brooklyn[edit],PS 297,Abraham Stockton,Bedford-Stuyvesant
+572,Region 8: Brooklyn[edit],PS 299,Thomas Warren Field,Bushwick
+573,Region 8: Brooklyn[edit],PS 301,Satellite East Middle School,Bedford-Stuyvesant
+574,Region 8: Brooklyn[edit],PS 304,Casimir Pulaski,Bedford-Stuyvesant
+575,Region 8: Brooklyn[edit],PS 305,Dr. Peter Ray,Bedford-Stuyvesant
+576,Region 8: Brooklyn[edit],PS 307,Daniel Hale Williams,Vinegar Hill
+577,Region 8: Brooklyn[edit],PS 309,George E. Wibecan,Bedford-Stuyvesant
+578,Region 8: Brooklyn[edit],PS 319,Walter Nowinski,Williamsburg
+579,Region 8: Brooklyn[edit],PS 321,William Penn School,Park Slope
+580,Region 8: Brooklyn[edit],PS 376,,Bushwick
+581,Region 8: Brooklyn[edit],PS 377,Alejandrina B. Degautier,Bushwick
+582,Region 8: Brooklyn[edit],PS 380,John Wayne Elementary,Williamsburg
+583,Region 8: Brooklyn[edit],,Frederick Douglass Academy IV Secondary School,Bedford-Stuyvesant
+584,Region 8: Brooklyn[edit],PS 384,Frances E. Carter,Bushwick
+585,"Region 9: Manhattan, the Bronx[edit]",PS 1,Courtlandt School,"Melrose, Bronx"
+586,"Region 9: Manhattan, the Bronx[edit]",PS 2,Meyer London,"Chinatown, Manhattan"
+587,"Region 9: Manhattan, the Bronx[edit]",PS 3,The John Melser Charrette School,"Greenwich Village, Manhattan"
+588,"Region 9: Manhattan, the Bronx[edit]",PS 5,Port Morris,"Longwood, Bronx"
+589,"Region 9: Manhattan, the Bronx[edit]",PS 6,Lillie D. Blake,"Upper East Side, Manhattan"
+590,"Region 9: Manhattan, the Bronx[edit]",PS 7,Samuel Stern,"East Harlem, Manhattan"
+591,"Region 9: Manhattan, the Bronx[edit]",PS 11,William T Harris,"Chelsea, Manhattan"
+592,"Region 9: Manhattan, the Bronx[edit]",PS 15,Roberto Clemente,"East Village, Manhattan"
+593,"Region 9: Manhattan, the Bronx[edit]",PS 18,Park Terrace,"Inwood, Manhattan"
+594,"Region 9: Manhattan, the Bronx[edit]",PS 19,Asher Levy,"East Village, Manhattan"
+595,"Region 9: Manhattan, the Bronx[edit]",PS 20,Anna Silver,"Lower East Side, Manhattan"
+596,"Region 9: Manhattan, the Bronx[edit]",PS/MS 29,Melrose School,"Melrose, Bronx"
+597,"Region 9: Manhattan, the Bronx[edit]",PS 30,Hernandez/Hughes,"East Harlem, Manhattan"
+598,"Region 9: Manhattan, the Bronx[edit]",PS 30,Wilton,"Mott Haven, Bronx"
+599,"Region 9: Manhattan, the Bronx[edit]",PS/MS 31,William Lloyd Garrison,"Concourse Village, Bronx"
+600,"Region 9: Manhattan, the Bronx[edit]",PS 33,Chelsea School,"Chelsea, Manhattan"
+601,"Region 9: Manhattan, the Bronx[edit]",PS 38,Roberto Clemente,"East Harlem, Manhattan"
+602,"Region 9: Manhattan, the Bronx[edit]",,River East Elementary,"East Harlem, Manhattan"
+603,"Region 9: Manhattan, the Bronx[edit]",PS 40,Augustus St. Gaudens,"Gramercy Park, Manhattan"
+604,"Region 9: Manhattan, the Bronx[edit]",PS 41,Greenwich Village,"Greenwich Village, Manhattan"
+605,"Region 9: Manhattan, the Bronx[edit]",PS 42,Benjamin Altman,"Lower East Side, Manhattan"
+606,"Region 9: Manhattan, the Bronx[edit]",PS 43,Jonas Bronck,Mott Haven
+607,"Region 9: Manhattan, the Bronx[edit]",PS 49,Willis Ave,South Bronx
+608,"Region 9: Manhattan, the Bronx[edit]",PS 51,Elias Howe,"Hell's Kitchen, Manhattan"
+609,"Region 9: Manhattan, the Bronx[edit]",PS 59,Beekman Hill Int’l,"Upper East Side, Manhattan"
+610,"Region 9: Manhattan, the Bronx[edit]",PS 63,William McKinley,"Upper East Side, Manhattan"
+611,"Region 9: Manhattan, the Bronx[edit]",PS 65,Mother Hale Academy,"Mott Haven, Bronx"
+612,"Region 9: Manhattan, the Bronx[edit]",IS 70,O'Henry,"Chelsea, Manhattan"
+613,"Region 9: Manhattan, the Bronx[edit]",PS 72,Lexington Academy,"East Harlem, Manhattan"
+614,"Region 9: Manhattan, the Bronx[edit]",PS 77,Lower Lab School,"Upper East Side, Manhattan"
+615,"Region 9: Manhattan, the Bronx[edit]",PS 83,Luis Muñoz Rivera,"East Harlem, Manhattan"
+616,"Region 9: Manhattan, the Bronx[edit]",PS 89,Williamsbridge,"Pelham Parkway, Bronx"
+617,"Region 9: Manhattan, the Bronx[edit]",PS 102,Jacques Cartier,"East Harlem, Manhattan"
+618,"Region 9: Manhattan, the Bronx[edit]",PS 108,Assembly Angelo Del Toro,"East Harlem, Manhattan"
+619,"Region 9: Manhattan, the Bronx[edit]",PS 112,José Celso Barbosa,"East Harlem, Manhattan"
+620,"Region 9: Manhattan, the Bronx[edit]",PS 116,Mary Lindley Murray,"Murray Hill, Manhattan"
+621,"Region 9: Manhattan, the Bronx[edit]",PS 124,Yung Wing,"Chinatown, Manhattan"
+622,"Region 9: Manhattan, the Bronx[edit]",PS/IS 126,Alfred E Smith,"Chinatown, Manhattan"
+623,"Region 9: Manhattan, the Bronx[edit]",PS 130,Hernando Desoto,"Little Italy, Manhattan"
+624,"Region 9: Manhattan, the Bronx[edit]",PS 134,Henrietta Szold,"Lower East Side, Manhattan"
+625,"Region 9: Manhattan, the Bronx[edit]",PS 137,John L Bernstein,"Lower East Side, Manhattan"
+626,"Region 9: Manhattan, the Bronx[edit]",PS 142,Amalia Castro,"Lower East Side, Manhattan"
+627,"Region 9: Manhattan, the Bronx[edit]",PS 146,Ann M Short,"East Harlem, Manhattan"
+628,"Region 9: Manhattan, the Bronx[edit]",PS 150,Tribeca Learning School,"Tribeca, Manhattan"
+629,"Region 9: Manhattan, the Bronx[edit]",PS 155,William Paca,"East Harlem, Manhattan"
+630,"Region 9: Manhattan, the Bronx[edit]",PS 157,Grove Hill,"Longwood, Bronx"
+631,"Region 9: Manhattan, the Bronx[edit]",PS 158,Bayard Taylor,"Upper East Side, Manhattan"
+632,"Region 9: Manhattan, the Bronx[edit]",PS 161,Ponce de Léon,"Longwood, Bronx"
+633,"Region 9: Manhattan, the Bronx[edit]",PS 171,Patrick Henry,"Harlem, Manhattan"
+634,"Region 9: Manhattan, the Bronx[edit]",,The Bilingual Bicultural School,"East Harlem, Manhattan"
+635,"Region 9: Manhattan, the Bronx[edit]",PS 179,,Mott Haven
+636,"Region 9: Manhattan, the Bronx[edit]",PS 182,Luis Muñoz Rivera,"Clason Point, Bronx"
+637,"Region 9: Manhattan, the Bronx[edit]",PS 198,Isador and Ida Straus,"Upper East Side, Manhattan"
+638,"Region 9: Manhattan, the Bronx[edit]",PS 206,José Celso Barbosa,"East Harlem, Manhattan"
+639,"Region 9: Manhattan, the Bronx[edit]",PS 212,Midtown West,"Hell's Kitchen, Manhattan"
+640,"Region 9: Manhattan, the Bronx[edit]",PS 220,Mott Haven Village School,"Mott Haven, Bronx"
+641,"Region 9: Manhattan, the Bronx[edit]",PS 234,Independence School,"Chambers Street/Tribeca, Manhattan"
+642,"Region 9: Manhattan, the Bronx[edit]",PS 277,,"Mott Haven, Bronx"
+643,"Region 9: Manhattan, the Bronx[edit]",PS 290,Manhattan New School,"Upper East Side, Manhattan"
+644,"Region 9: Manhattan, the Bronx[edit]",,The 47 American Sign Language & English Lower School,"Kips Bay, Manhattan"
+645,"Region 9: Manhattan, the Bronx[edit]",,Children’s Workshop School,"East Village, Manhattan"
+646,"Region 10: Manhattan, the Bronx[edit]",PS 4,Duke Ellington,"Washington Heights, Manhattan"
+647,"Region 10: Manhattan, the Bronx[edit]",PS 5,Ellen Lurie,"Inwood, Manhattan"
+648,"Region 10: Manhattan, the Bronx[edit]",PS 8,Luis Belliard,"Washington Heights, Manhattan"
+649,"Region 10: Manhattan, the Bronx[edit]",PS 9,Renaissance School for Music and Art,"Upper West Side, Manhattan"
+650,"Region 10: Manhattan, the Bronx[edit]",PS 20,P.O. George J. Werdan III,"Norwood, Bronx"
+651,"Region 10: Manhattan, the Bronx[edit]",PS 28,Wright Brothers,"Washington Heights, Manhattan"
+652,"Region 10: Manhattan, the Bronx[edit]",PS 36,Margaret Douglas,"Morningside Heights, Manhattan"
+653,"Region 10: Manhattan, the Bronx[edit]",PS 46,Arthur Tappan,"Harlem, Manhattan"
+654,"Region 10: Manhattan, the Bronx[edit]",PS 48,Po Michael J. Buczek,"Washington Heights, Manhattan"
+655,"Region 10: Manhattan, the Bronx[edit]",PS 76,A. Philip Randolph,"Harlem, Manhattan"
+656,"Region 10: Manhattan, the Bronx[edit]",PS 84,Lillian Weber,"Upper West Side, Manhattan"
+657,"Region 10: Manhattan, the Bronx[edit]",PS 87,William Sherman,"Upper West Side, Manhattan"
+658,"Region 10: Manhattan, the Bronx[edit]",PS 92,Mary McLeod Bethune,"Harlem, Manhattan"
+659,"Region 10: Manhattan, the Bronx[edit]",PS 98,Shorackappock,"Inwood, Manhattan"
+660,"Region 10: Manhattan, the Bronx[edit]",PS 115,Alexander Humboldt,"Washington Heights, Manhattan"
+661,"Region 10: Manhattan, the Bronx[edit]",PS 123,Mahalia Jackson,"Harlem, Manhattan"
+662,"Region 10: Manhattan, the Bronx[edit]",PS 125,Ralph Bunche,"Morningside Heights, Manhattan"
+663,"Region 10: Manhattan, the Bronx[edit]",PS 128,Audubon,"Washington Heights, Manhattan"
+664,"Region 10: Manhattan, the Bronx[edit]",PS 129,John H Finley,"Harlem, Manhattan"
+665,"Region 10: Manhattan, the Bronx[edit]",PS 132,Juan Pablo Duarte,"Washington Heights, Manhattan"
+666,"Region 10: Manhattan, the Bronx[edit]",PS 133,Fred R Moore,"East Harlem, Manhattan"
+667,"Region 10: Manhattan, the Bronx[edit]",PS 145,Bloomingdale School,"Upper West Side, Manhattan"
+668,"Region 10: Manhattan, the Bronx[edit]",PS 152,Dyckman Valley,"Inwood, Manhattan"
+669,"Region 10: Manhattan, the Bronx[edit]",PS 154,Harriet Tubman,"Harlem, Manhattan"
+670,"Region 10: Manhattan, the Bronx[edit]",PS 163,Alfred E Smith,"Upper West Side, Manhattan"
+671,"Region 10: Manhattan, the Bronx[edit]",PS 166,The Richard Rodgers School of the Arts and Technology,"Upper West Side, Manhattan"
+672,"Region 10: Manhattan, the Bronx[edit]",PS 173,Fresh Meadows,"Washington Heights, Manhattan"
+673,"Region 10: Manhattan, the Bronx[edit]",PS 175,Henry H Garnet,"Harlem, Manhattan"
+674,"Region 10: Manhattan, the Bronx[edit]",,Prof. Juan Bosch Public School,"Inwood, Manhattan"
+675,"Region 10: Manhattan, the Bronx[edit]",PS 185,John M. Langston,"Washington Heights, Manhattan"
+676,"Region 10: Manhattan, the Bronx[edit]",PS 187,Hudson Cliffs,"Washington Heights, Manhattan"
+677,"Region 10: Manhattan, the Bronx[edit]",PS 189,,"Washington Heights, Manhattan"
+678,"Region 10: Manhattan, the Bronx[edit]",PS 191,Amsterdam,"Upper West Side, Manhattan"
+679,"Region 10: Manhattan, the Bronx[edit]",PS 192,Jacob H Schiff,"Harlem, Manhattan"
+680,"Region 10: Manhattan, the Bronx[edit]",PS 197,John B Russwurm,"Harlem, Manhattan"
+681,"Region 10: Manhattan, the Bronx[edit]",PS 200,James M Smith,"Harlem, Manhattan"
+682,"Region 10: Manhattan, the Bronx[edit]",PS 208,Alain L Locke,"Harlem, Manhattan"
+683,"Region 10: Manhattan, the Bronx[edit]",PS242M,G. P. Brown Comp. School,"Harlem, Manhattan"
+684,"Region 10: Manhattan, the Bronx[edit]",PS 325,,"Harlem, Manhattan"
+685,"Region 10: Manhattan, the Bronx[edit]",PS 333,Manhattan School for Children,"Upper West Side, Manhattan"
+686,"Region 10: Manhattan, the Bronx[edit]",PS 859,Special Music School,"Upper West Side, Manhattan"
+687,Empowerment Schools: citywide[edit],,Hellenic Classical Charter School,"Sunset Park, Brooklyn"
+688,Empowerment Schools: citywide[edit],,Community Roots Charter School,"Downtown Brooklyn/Fort Greene, Brooklyn"
+689,Empowerment Schools: citywide[edit],PS 314,Muscota New School,"Inwood, Manhattan"
+690,Empowerment Schools: citywide[edit],PS 315,The East Village Community School,"East Village, Manhattan"
+691,Empowerment Schools: citywide[edit],PS 363,Neighborhood School,"East Village, Manhattan"
+692,Empowerment Schools: citywide[edit],PS 364,Earth School,"East Village, Manhattan"
+693,Empowerment Schools: citywide[edit],,Central Park East I,"East Harlem, Manhattan"
+694,Empowerment Schools: citywide[edit],,Amber Charter School,"East Harlem, Manhattan"
+695,Empowerment Schools: citywide[edit],,Central Park East II,"East Harlem, Manhattan"
+696,Empowerment Schools: citywide[edit],,The Bellaire School,"Queens Village, Queens"
+697,Empowerment Schools: citywide[edit],PS 252,The Queens School of Inquiry,"Flushing, Queens"
+698,Empowerment Schools: citywide[edit],PS 499,"The Queens College School for Math, Science, and Technology","Flushing, Queens"
+699,Empowerment Schools: citywide[edit],,51 Avenue Academy,"Elmhurst, Queens"
+700,Empowerment Schools: citywide[edit],,Bronx Charter School for Arts,"Hunts Point, Bronx"
+701,Empowerment Schools: citywide[edit],,"Magnet School of Math, Science and Design Technology","South Slope, Brooklyn"
+702,Empowerment Schools: citywide[edit],PS 6,,"Flatbush, Brooklyn"
+703,Empowerment Schools: citywide[edit],PS 9,Sarah Anderson,"Upper West Side, Manhattan"
+704,Empowerment Schools: citywide[edit],PS 14,Sen. John Calandra,"Schuylerville, Bronx"
+705,Empowerment Schools: citywide[edit],PS 16,Wakefield,"Wakefield, Bronx"
+706,Empowerment Schools: citywide[edit],PS 21,Crispus Attucks,"Bedford-Stuyvesant, Brooklyn"
+707,Empowerment Schools: citywide[edit],PS 23,The New Children’s School,"Belmont, Bronx"
+708,Empowerment Schools: citywide[edit],PS 24,,"Sunset Park, Brooklyn"
+709,Empowerment Schools: citywide[edit],PS 29,John M. Harrigan,"Cobble Hill, Brooklyn"
+710,Empowerment Schools: citywide[edit],PS 32,The Gifford School,"Great Kills, Staten Island"
+711,Empowerment Schools: citywide[edit],PS 35,Franz Siegel,"Concourse Village, Bronx"
+712,Empowerment Schools: citywide[edit],PS 42,Claremont,"Claremont Village, Bronx"
+713,Empowerment Schools: citywide[edit],PS 49,Dorothy Bonawit Kole,"Middle Village, Queens"
+714,Empowerment Schools: citywide[edit],PS 50,Vito Marcantonio,"East Harlem, Manhattan"
+715,Empowerment Schools: citywide[edit],PS 52,Queens,"Springfield Gardens, Queens"
+716,Empowerment Schools: citywide[edit],PS 56,Harry Eichler,"Richmond Hill, Queens"
+717,Empowerment Schools: citywide[edit],PS 59,The Comm School Of Technology,"Belmont, Bronx"
+718,Empowerment Schools: citywide[edit],PS 64,Robert Simon,"East Village, Manhattan"
+719,Empowerment Schools: citywide[edit],PS 69,The New Vision School,"Jackson Heights, Queens"
+720,Empowerment Schools: citywide[edit],PS 71,Rose E. Scala,"Ridgewood, Queens"
+721,Empowerment Schools: citywide[edit],PS 75,Emily Dickinson,"Upper West Side, Manhattan"
+722,Empowerment Schools: citywide[edit],PS 81,Thaddeus Stevens,"Bedford-Stuyvesant, Brooklyn"
+723,Empowerment Schools: citywide[edit],PS 86,Kingsbridge Heights,"Jerome Park, Bronx"
+724,Empowerment Schools: citywide[edit],PS 88,S. Silverstein Little School,"Claremont Village, Bronx"
+725,Empowerment Schools: citywide[edit],PS 103,Hector Fontanez,"Wakefield, Bronx"
+726,Empowerment Schools: citywide[edit],PS 105,The Blythebourne,"Borough Park, Brooklyn"
+727,Empowerment Schools: citywide[edit],PS 114,Luis Llorens Torres Chl,"Concourse, Bronx"
+728,Empowerment Schools: citywide[edit],PS 115,Daniel Mucatel School,"Canarsie, Brooklyn"
+729,Empowerment Schools: citywide[edit],PS 121,Throop,"Allerton, Bronx"
+730,Empowerment Schools: citywide[edit],PS 130,Hernando Desoto,"Little Italy, Manhattan"
+731,Empowerment Schools: citywide[edit],PS 139,Alexine A. Fenty,"Flatbush, Brooklyn"
+732,Empowerment Schools: citywide[edit],PS 146,Ann M. Short,"East Harlem, Manhattan"
+733,Empowerment Schools: citywide[edit],PS 147,Isaac Remsen,"Williamsburg, Brooklyn"
+734,Empowerment Schools: citywide[edit],PS 149,Danny Kaye,
+735,Empowerment Schools: citywide[edit],PS 149,Sojourner Truth,"Harlem, Manhattan"
+736,Empowerment Schools: citywide[edit],PS 151,Mary D. Carter,"Astoria, Queens"
+737,Empowerment Schools: citywide[edit],PS 153,Adam Clayton Powell,"Harlem, Manhattan"
+738,Empowerment Schools: citywide[edit],PS 154,Jonathan D. Hyatt,"Mott Haven, Bronx"
+739,Empowerment Schools: citywide[edit],PS 161,Don Pedro Albizu Campos,"Harlem, Manhattan"
+740,Empowerment Schools: citywide[edit],PS 165,Robert E. Simon,"Upper West Side, Manhattan"
+741,Empowerment Schools: citywide[edit],PS 172,Beacon School Of Excellence,"Greenwood Heights, Brooklyn"
+742,Empowerment Schools: citywide[edit],PS 180,Hugo Newman,"Harlem, Manhattan"
+743,Empowerment Schools: citywide[edit],PS 183,Robert L. Stevenson,"Upper East Side, Manhattan"
+744,Empowerment Schools: citywide[edit],PS 193,Gil Hodges,"Midwood, Brooklyn"
+745,Empowerment Schools: citywide[edit],PS 194,Countee Cullen,"Harlem, Manhattan"
+746,Empowerment Schools: citywide[edit],PS 199,Jessie Isador Straus,"West 70th Street, Manhattan"
+747,Empowerment Schools: citywide[edit],PS 209,Margaret Mead,"Sheepshead Bay, Brooklyn"
+748,Empowerment Schools: citywide[edit],PS 210,21st Century Academy,"Harlem, Manhattan"
+749,Empowerment Schools: citywide[edit],PS 215,Morris H. Weiss,"Gravesend, Brooklyn"
+750,Empowerment Schools: citywide[edit],PS 226,"University Heights, Bronx",
+751,Empowerment Schools: citywide[edit],PS 228,ECC,"East Elmhurst, Queens"
+752,Empowerment Schools: citywide[edit],PS 230,Doris L. Cohen,"Kensington, Brooklyn"
+753,Empowerment Schools: citywide[edit],PS 230,Dr. Roland N. Patterson,"Gravesend, Brooklyn"
+754,Empowerment Schools: citywide[edit],PS 273,Wortman,"Richmond Hill, Queens"
+755,Empowerment Schools: citywide[edit],PS 279,Herman Schreiber,"Canarsie, Brooklyn"
+756,Empowerment Schools: citywide[edit],PS 282,Park Slope,"Park Slope, Brooklyn"
+757,Empowerment Schools: citywide[edit],PS 291,,"University Heights, Bronx"
+758,Empowerment Schools: citywide[edit],PS 315,Dist 22,"Flatbush, Brooklyn"
+759,Empowerment Schools: citywide[edit],PS 321,William Penn,"Park Slope, Brooklyn"
+760,Empowerment Schools: citywide[edit],PS 334,The Anderson School,Citywide
+761,Empowerment Schools: citywide[edit],PS 340,,"Kingsbridge, Bronx"
+762,Empowerment Schools: citywide[edit],PS 360,,"Kingsbridge, Bronx"
+763,Empowerment Schools: citywide[edit],PS 372,The Children’s School,"Gowanus, Brooklyn"
+764,Empowerment Schools: citywide[edit],PS 399,Stanley Eugene Clark,"East Flatbush, Brooklyn"
+765,Special Education District 75: citywide[edit],PS 4 (Staten Island),,
+766,Special Education District 75: citywide[edit],PS 9,,
+767,Special Education District 75: citywide[edit],PS 17 X,Denzel Washington,
+768,Special Education District 75: citywide[edit],PS 53 K,,
+769,Special Education District 75: citywide[edit],PS 94 M,,
+770,Special Education District 75: citywide[edit],PS 140 K,,
+771,Special Education District 75: citywide[edit],PS 224 Q,,
+772,Special Education District 75: citywide[edit],PS 231K,,
+773,Special Education District 75: citywide[edit],PS 327,The Children’s School,
+774,Special Education District 75: citywide[edit],PS 373 R,,
+775,Special Education District 75: citywide[edit],PS 352 X,The Vida Bogart School for All Children,
+776,Special Education District 75: citywide[edit],PS 371,Lillian L. Rashkis,
